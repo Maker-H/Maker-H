@@ -6,8 +6,8 @@
 
 - ❤️‍🔥 Aspiring developer interested in Web and Infrastucture.
 - 🌱 I mainly use Java, currently trying to perform TDD.
-- 👀 I'm interested in *how to be a good co-worker*
-- ❓ I think *curiosity* is my biggest strength
+- 👀 I'm interested in **how to be a good co-worker**
+- ❓ I think **curiosity** is my biggest strength
 - 👂 I enjoy to meet developers and listen to them
 
 **Language and Tools**
