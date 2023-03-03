@@ -10,6 +10,8 @@
 - ❓ I think **curiosity** is my biggest strength
 - 👂 I enjoy to meet developers and listen to them
 
+<br>
+
 ### Language and Tools
 
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -17,6 +19,9 @@
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maker-H&layout=compact&theme=dark)
 
 
 <!---
