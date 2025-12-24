@@ -5,6 +5,7 @@
 <br/>
 
 ### About Me
+---
 
 - 🏢 B2B 솔루션 회사에서 게이트웨이 관리 시스템 개발 중
 - ☕ Java, Spring Boot, Kafka, RDBMS 주로 사용
@@ -14,6 +15,7 @@
 <br/>
 
 ### 2026 Goals
+---
 
 - 📐 **시스템 디자인** - DB 스키마부터 아키텍처까지 직접 설계하며 학습
 - 🧩 **MSA 패턴** - Event Sourcing, CQRS 등 분산 시스템 패턴 예제 구현
@@ -22,6 +24,7 @@
 <br/>
 
 ### Tech Stack
+---
 
 **Backend**
 
